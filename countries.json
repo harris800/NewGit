@@ -6,9 +6,13 @@
 {
 	"name":"China",
 	"population":1300000
-}
+},
 {
 	"name":"America",
 	"population":200930
+},
+{
+	"name":"India",
+	"population":1002932
 }
 ]
